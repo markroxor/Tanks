@@ -4,7 +4,7 @@ A pygame based game coded in python.
 
 ##Install Instructions
 
-Run main.py
+Run main.py.
 
 Linux: In your terminal type - "python main.py"
 
